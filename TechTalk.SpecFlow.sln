@@ -87,6 +87,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzurePipelines", "AzurePipe
 		build.yml = build.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Assist", "TechTalk.SpecFlow.Assist\TechTalk.SpecFlow.Assist.csproj", "{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -349,6 +351,18 @@ Global
 		{02A08F81-B90F-4EB3-9C30-CE7447DE2012}.Release|Any CPU.Build.0 = Release|Any CPU
 		{02A08F81-B90F-4EB3-9C30-CE7447DE2012}.VS2010IntegrationTest|Any CPU.ActiveCfg = Debug|Any CPU
 		{02A08F81-B90F-4EB3-9C30-CE7447DE2012}.VS2010IntegrationTest|Any CPU.Build.0 = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-MSTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-MSTest|Any CPU.Build.0 = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-NUnit|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-NUnit|Any CPU.Build.0 = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-XUnit|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Debug-XUnit|Any CPU.Build.0 = Debug|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.VS2010IntegrationTest|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBBE04E-1E3F-499D-9C66-4FF17F81F02B}.VS2010IntegrationTest|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
